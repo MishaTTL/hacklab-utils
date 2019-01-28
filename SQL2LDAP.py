@@ -34,4 +34,3 @@ for r in myresult:
         print("uidNumber: %i" % uid)
         print("givenName: %s" % r[2])
         print("")
-
